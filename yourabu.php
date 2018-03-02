@@ -64,31 +64,31 @@ $emo=array (
 $text = array(
 '   😘 '.$tagged_name.' 😘 STICKER+MENTION COMMENT WALI FULL SCURE SITE HEI. 😘
  
- 😘👉 LATEST-MENTION,TK 👈😘👉 LATEST-MENTION,TK 👈😘 ',
+ 😘👉 LATEST-MENTION,TK 👈😘👉 UNIQUE BOT TEAM 👈😘 ',
 
 '    🔰 TUMBI LGALO BOT ACHA CHAL RAHA HAI AYAN ALI KA. 🔰 '.$tagged_name.' 🔰 
   
-  🔰👉 LATEST-MENTION,TK 👈🔰👉 LATEST-MENTION,TK 👈🔰 ',
+  🔰👉 LATEST-MENTION,TK 👈🔰👉 UNIQUE BOT TEAM 👈🔰 ',
 
  
  '   ♥  ADD CLOSE FAXT TERA NOW NHE AA RAHA. ♥  '.$tagged_name.' ♥  
  
- ♥👉 LATEST-MENTION,TK 👈♥👉 LATEST-MENTION,TK 👈♥  ',
+ ♥👉 LATEST-MENTION,TK 👈♥👉 UNIQUE BOT TEAM 👈♥  ',
 
  '   ⭕ PROMOTE HE KARDY JIGR THORI C ADDING KARNI HEI. ⭕ '.$tagged_name.' ⭕ 
  
- ⭕👉 LATEST-MENTION,TK 👈⭕👉 LATEST-MENTION,TK 👈⭕ ',
+ ⭕👉 LATEST-MENTION,TK 👈⭕👉 UNIQUE BOT TEAM 👈⭕ ',
  
  '   ⭕ YELY CLOSE KA PROOF JANI. ⭕ '.$tagged_name.' ⭕ 
  
- ⭕👉 LATEST-MENTION,TK 👈⭕👉 LATEST-MENTION,TK 👈⭕ ',
+ ⭕👉 LATEST-MENTION,TK 👈⭕👉 UNIQUE BOT TEAM 👈⭕ ',
  
  '   ♥ '.$tagged_name.' ♥  3 DAYS SY BOT WORK RAHA HEII MERA NA COMMENT BLOCK NA REACT. ♥  
- ♥👉 LATEST-MENTION,TK 👈♥👉 LATEST-MENTION,TK 👈♥  ',
+ ♥👉 LATEST-MENTION,TK 👈♥👉 UNIQUE BOT TEAM 👈♥  ',
  
  '   ♥ '.$tagged_name.' ♥  YELO JUST LOVE REACT SITE HAI 👉 LOVE-ON,TK 👈 . ♥  
  
- ♥👉 LATEST-MENTION,TK 👈♥👉 LATEST-MENTION,TK 👈♥  ',
+ ♥👉 LATEST-MENTION,TK 👈♥👉 UNIQUE BOT TEAM 👈♥  ',
  
 '   ♥ '.$tagged_name.' ♥  YEBI MAT SITE HEI AYAN ALI KI FULL SHORT COMMENT HEI ISKA 👉 NO-BLOCKING,TK 👈 . ♥  
  

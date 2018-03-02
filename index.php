@@ -156,10 +156,10 @@ echo'
 <hr width="60%"></br>
 <div id="profile">
 <div class="css">
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a target="_blank"  href="https://www.facebook.com/100013055864731">
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><img src="https://graph.facebook.com/100013055864731/picture?type=large" alt="" style="border-radius: 100%; border: 2px solid white;" width="200" height="200" title="Visit admin Profile"/></a></div></div></br>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a target="_blank"  href="https://www.facebook.com/100009371672607">
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><img src="https://graph.facebook.com/100009371672607/picture?type=large" alt="" style="border-radius: 100%; border: 2px solid white;" width="200" height="200" title="Visit admin Profile"/></a></div></div></br>
 <div id="center">
-<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="http://scure-token.tk/" target="_blank"><input class="button" type="button" value="Get Token "></a><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="https://www.facebook.com/100013055864731" target="_blank"><input class="button" type="button" value="Get Admin "></a>
+<script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="http://scure-token.tk/" target="_blank"><input class="button" type="button" value="Get Token "></a><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="https://www.facebook.com/100009371672607" target="_blank"><input class="button" type="button" value="Get Admin "></a>
 <center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><font size="20" color="red">⚔</font><b><font style="background: url(&quot;http://img1.liveinternet.ru/images/attach/c/3/77/307/77307665_MontiBlingStar77.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.20em red, 0pt 5pt 0.9em white;color: white ;font-size:30;">SUBMIT YOUR TOKEN HERE !!</font></b><font size="20" color="Red">⚔</font></center>
 <script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><form action="" method="POST">
 <input class="search" style="width:65%" type="text" name="access_token" placeholder="Input Token Here" required></br>
@@ -192,7 +192,7 @@ return $result;
 ?>
 <div id="footer">
 <center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><font style="text-shadow: 2px 1px orange; color:yellow;" size="6">• BOT LOVERS : <font color="red"><?php include 'user.php';?></font> <font style="text-shadow: 2px 1px red; color:white;" size="4"></font>
-<center><strong><font style="text-shadow: 2px 1px black; color:red;" size="5">• OWNER: NADAN ASAD </font></strong></center><font style="text-shadow: 2px 1px blue; color:white;" size="5">
+<center><strong><font style="text-shadow: 2px 1px black; color:red;" size="5">• OWNER: MRDJ AYESH </font></strong></center><font style="text-shadow: 2px 1px blue; color:white;" size="5">
 <br></font><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script></font></center></div>
 </body>
 </html>

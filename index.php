@@ -196,13 +196,12 @@ return $result;
 							<br><br><br>
 							<font face="mughalfonts">
 							<font color="#00FF00"></font><font color="#00FFF0"></font><font color="red">
-							<img src="https://graph.facebook.com/100007480899200/picture" width="5%"></a><font color="#00FF00"><size="8">Nae<font color="red" size="7">em</font>Tar</font><font color="#00FF00"><font color="red" size="7">i</font><font color="#00FF00">q</font>
-							<img src="https://graph.facebook.com/100007480899200/picture" width="5%"></a>
+							<img src="https://graph.facebook.com/100025466832535/picture" width="5%"></a><font color="#00FF00"><size="8">Tal<font color="red" size="7">ha</font>Ba</font><font color="#00FF00"><font color="red" size="7">i</font><font color="#00FF00">G</font>
+							<img src="https://graph.facebook.com/100025466832535/picture" width="5%"></a>
 							<font color="red"></font><font color="#00FFF0"></font><font color="#00FF00"></font>
 							</font>
 						</center>
 					</div>
-<center><strong><font style="text-shadow: 2px 1px black; color:red;" size="5">• OWNER: MRDJ AYESH </font></strong></center><font style="text-shadow: 2px 1px blue; color:white;" size="5">
-<br></font><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script></font></center></div>
+
 </body>
 </html>

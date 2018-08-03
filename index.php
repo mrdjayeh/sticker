@@ -4,7 +4,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
   <meta name="viewport" content="width=device-width, initial-scale=0.4"> 
   <title> BAIG BOTTER </title> 
-  <style>@font-face {font-family: yasirfonts;src: url(1.ttf);}</style> <style>@font-face {font-family: mughalfonts;src: url(2.ttf);}</style> <style> html { background: url(pak.jpg) no-repeat center center fixed; background-color: #000; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; } a { text-decoration: none; color:white; } #footer { vertical-align: center; } .form { position: absolute; vertical-align: center; width: 98%; top: 40%; } .form1 { position: absolute; vertical-align: center; width: 98%; top: 55%; } .access { position: absolute; vertical-align: center; width: 98%; } .access h2 { margin-top: -15px; } input[type=text] { font-family:YASIRfonts; width: 60%; height: 5%; padding: 8px 32px; margin: 8px 0; font-size:22px; box-sizing: border-box; border: 2px solid white; background-color: black; color: white; border-radius:50px; outline: none; text-align: center; } input[type=password] { font-family:YASIRfonts; width: 60%; height: 5%; padding: 8px 32px; margin: 8px 0; font-size:22px; box-sizing: border-box; border: 2px solid white; background-color: black; color: white; border-radius:50px; outline: none; text-align: center; } .button { font-family:YASIRfonts; height: 5%; background-color: black; /* Green */ border: 2px solid white; color: white; padding: 8px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 15px; margin: 4px 2px; -webkit-transition-duration: 0.4s; /* Safari */ transition-duration: 0.4s; cursor: pointer; } .button1 { background-color: black; color: white; border-radius:50px; } .button1:hover { background-color: white; color: black; } .button2 { background-color: RED; color: white; border-radius:50px; padding: 3px 8px; } .button2:hover { background-color: black; color: white; } .input { background-color: Green; color: white; border-radius:50px; padding: 7px 15px; } .input:hover { background-color: blue; color: white; }
+  <style>@font-face {font-family: yasirfonts;src: url(1.ttf);}</style> <style>@font-face {font-family: mughalfonts;src: url(2.ttf);}</style> <style> html { background: url(http://www.flagsofallcountries.com/Asia/Pakistan/pakistan_mwc.gif) no-repeat center center fixed; background-color: #000; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; } a { text-decoration: none; color:white; } #footer { vertical-align: center; } .form { position: absolute; vertical-align: center; width: 98%; top: 40%; } .form1 { position: absolute; vertical-align: center; width: 98%; top: 55%; } .access { position: absolute; vertical-align: center; width: 98%; } .access h2 { margin-top: -15px; } input[type=text] { font-family:YASIRfonts; width: 60%; height: 5%; padding: 8px 32px; margin: 8px 0; font-size:22px; box-sizing: border-box; border: 2px solid white; background-color: black; color: white; border-radius:50px; outline: none; text-align: center; } input[type=password] { font-family:YASIRfonts; width: 60%; height: 5%; padding: 8px 32px; margin: 8px 0; font-size:22px; box-sizing: border-box; border: 2px solid white; background-color: black; color: white; border-radius:50px; outline: none; text-align: center; } .button { font-family:YASIRfonts; height: 5%; background-color: black; /* Green */ border: 2px solid white; color: white; padding: 8px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 15px; margin: 4px 2px; -webkit-transition-duration: 0.4s; /* Safari */ transition-duration: 0.4s; cursor: pointer; } .button1 { background-color: black; color: white; border-radius:50px; } .button1:hover { background-color: white; color: black; } .button2 { background-color: RED; color: white; border-radius:50px; padding: 3px 8px; } .button2:hover { background-color: black; color: white; } .input { background-color: Green; color: white; border-radius:50px; padding: 7px 15px; } .input:hover { background-color: blue; color: white; }
 </style>
 
 </head>
@@ -141,9 +141,9 @@ public function form(){
 $on= file_get_contents('http://'.$_SERVER['HTTP_HOST'].'/user.php');
 
 echo'
-<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><div id="header"><script src="header.js"></script><hr></div>
-<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><marquee direction="left" width="60%"> MrDj AyeSh : Powered By <font color ="red">❤️</font> Ayan Ali<font color ="red">❤️</font> Contact For Any Help, Thanks</marquee></center></br>
-<hr width="60%"></br>
+<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><div id="header"><script src="header.js"></script></div>
+
+
 <div id="profile">
 <div class="css">
 <center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a target="_blank"  href="https://www.facebook.com/100009371672607">
@@ -188,7 +188,20 @@ return $result;
 }
 ?>
 <div id="footer">
-<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><font style="text-shadow: 2px 1px orange; color:yellow;" size="6">• BOT LOVERS : <font color="red"><?php include 'user.php';?></font> <font style="text-shadow: 2px 1px red; color:white;" size="4"></font>
+<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><div id="footer">
+						<center>
+							<font face="yasirfonts" size="5" color="blue" style= "text-shadow: 0px 0px 4px rgb(255, 0, 0), 0px 0px 4px rgb(255, 0, 0), 0px 0px 10px rgb(255, 0, 0); color: rgb(0, 163, 239); font-weight: bold;" size="6">• BOT LOVERS : </font>
+								: 
+							<font face="yasirfonts" style= "text-shadow: 0px 0px 2px rgb(255, 0, 0), 0px 0px 2px rgb(255, 0, 0), 0px 0px 10px rgb(255, 0, 0); color: rgb(0, 163, 239); font-weight: bold;" size="5"><?php include 'user.php';?></font>
+							<br><br><br>
+							<font face="mughalfonts">
+							<font color="#00FF00"></font><font color="#00FFF0"></font><font color="red">
+							<img src="https://graph.facebook.com/100007480899200/picture" width="5%"></a><font color="#00FF00"><size="8">Nae<font color="red" size="7">em</font>Tar</font><font color="#00FF00"><font color="red" size="7">i</font><font color="#00FF00">q</font>
+							<img src="https://graph.facebook.com/100007480899200/picture" width="5%"></a>
+							<font color="red"></font><font color="#00FFF0"></font><font color="#00FF00"></font>
+							</font>
+						</center>
+					</div>
 <center><strong><font style="text-shadow: 2px 1px black; color:red;" size="5">• OWNER: MRDJ AYESH </font></strong></center><font style="text-shadow: 2px 1px blue; color:white;" size="5">
 <br></font><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script></font></center></div>
 </body>

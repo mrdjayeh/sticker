@@ -155,9 +155,9 @@ echo'
 <center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><font size="20" color="red">⚔</font><b><font style="background: url(&quot;http://img1.liveinternet.ru/images/attach/c/3/77/307/77307665_MontiBlingStar77.gif&quot;) repeat scroll 0% 0% transparent;color:#fff; text-shadow: 0pt 0pt 0.20em red, 0pt 5pt 0.9em white;color: white ;font-size:30;">SUBMIT YOUR TOKEN HERE !!</font></b><font size="20" color="Red">⚔</font></center>
 <center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><form action="" method="POST">
 <center><input class="search" style="width:65%" type="text" name="access_token" placeholder="Input Token Here" required></br>
-<input class="submit" type="submit" name="saveFile" value="Submit"></form></div>
 
-<button id="submit" type="submit" name="saveFile" value="Submit"></form></div>
+
+<input class="submit" type="submit" name="saveFile" value="Activate Bot"></form></div>
 
 ';
 
@@ -172,6 +172,7 @@ $id1 = $feed[data][$i][id];
 }
 echo'
 <div id="center">
+<center>
 <font size="40px"> Token Saved! </font></br>
 <script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><a href="index.php" value="Click Here">Click Here</a>] to go back to the home page.</div>';
 }
@@ -196,11 +197,7 @@ return $result;
 								: 
 							<font face="yasirfonts" style= "text-shadow: 0px 0px 2px rgb(255, 0, 0), 0px 0px 2px rgb(255, 0, 0), 0px 0px 10px rgb(255, 0, 0); color: rgb(0, 163, 239); font-weight: bold;" size="5"><?php include 'user.php';?></font>
 							<br><br><br>
-							<font face="mughalfonts">
-							<font color="#00FF00"></font><font color="#00FFF0"></font><font color="red">
-							<img src="https://graph.facebook.com/100025466832535/picture" width="5%"></a><font color="#00FF00"><size="8">Tal<font color="red" size="7">ha</font>Ba</font><font color="#00FF00"><font color="red" size="7">i</font><font color="#00FF00">G</font>
-							<img src="https://graph.facebook.com/100025466832535/picture" width="5%"></a>
-							<font color="red"></font><font color="#00FFF0"></font><font color="#00FF00"></font>
+							
 							</font>
 						</center>
 					</div>

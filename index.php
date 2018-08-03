@@ -141,7 +141,7 @@ public function form(){
 $on= file_get_contents('http://'.$_SERVER['HTTP_HOST'].'/user.php');
 
 echo'
-<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><div id="header"><script src="header.js"></script></div>
+<center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><center><font color="blue" size="8"><font size="50"<b><script language="JavaScript" src="header.js" size="520"></script></b></font></font><br><center>
 
 
 <div id="profile">

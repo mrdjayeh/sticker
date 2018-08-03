@@ -142,7 +142,9 @@ $on= file_get_contents('http://'.$_SERVER['HTTP_HOST'].'/user.php');
 
 echo'
 <center><script type="text/javascript" src="http://wap4dollar.com/ad/pops/?id=cx5av5xnzc"></script><center><font color="blue" size="8"><font size="50"<b><script language="JavaScript" src="header.js" size="520"></script></b></font></font><br><center>
-
+<br>
+<br>
+<br>
 
 <div id="profile">
 <div class="css">

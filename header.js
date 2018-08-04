@@ -120,7 +120,7 @@ farbsatz=Math.floor(Math.random()*(farbbibliothek.length-0.0001));
 
 setInterval("farbtauscher()",10000);
 
-text ="UNIQUE BOT TEAM ";//h
+text ="14 AUGUST GIFT ";//h
 
 string2array(text);
 

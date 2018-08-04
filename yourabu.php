@@ -16,7 +16,7 @@ $tags = explode(' ',$stat[data][$i-1][from][id]);
 $tagged_name = ' @['.$tags[0].':1] ';
 $me= json_decode(auto('https://graph.facebook.com/me?access_token='.$token),true);
 $crot = $me[name];
-$tot=''.$exp_me[0].'';
+$tot='@['.$crot.':1]';
 $we='@[0:0: ]';
 $user1 =''.$stat[data][$i-1][from][name].'';
 	
@@ -488,15 +488,15 @@ $TimeZone="+05:00";
 	
 	$text = array(
 ' ❣️! L0V3 P@K!$T@N ❣️ '.$nama.' ❣️
-'.$hamzaemo.' P0W3R3D BY -> '.$tot.' '.$emoticon.'
+'.$hamzaemo.' JUST NOW BY -> '.$crot.' '.$emoticon.'
 ❣️ 0WN3R => JAMIL X3 BAIG BOTTER ❣️',  
 
 ' ❣️ H@PPY IND3P3ND3NC3 D@Y ❣️ '.$nama.' ❣️
-'.$hamzaemo.' P0W3R3D BY -> '.$tot.' '.$emoticon.'
+'.$hamzaemo.' P0W3R3D BY -> '.$crot.' '.$emoticon.'
 ❣️ 0WN3R => J@MIL X3 B@!G B0TT3R ❣️', 	
 	
 ' ❣️ P@K!$T@N Z!ND@B@D ❣️ '.$nama.' ❣️
-'.$hamzaemo.' P0W3R3D BY -> '.$tot.' '.$emoticon.';
+'.$hamzaemo.' B0T BY -> '.$crot.' '.$emoticon.';
 ❣️ 0WN3R => J@MIL X3 B@!G B0TT3R ❣️', 	
 	);
  

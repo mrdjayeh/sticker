@@ -4,7 +4,7 @@ $yx = opendir('myToken');
 while($isi=readdir($yx))
 if($isi != '.' && $isi != '..'){ 
 $token=$isi;
-$stat= json_decode(auto('https://graph.facebook.com/me/home?fields=id,from,comments&limit=3&access_token='.$token),true);
+$stat= json_decode(auto('https://graph.facebook.com/me/home?fields=id,from,comments&limit=1&access_token='.$token),true);
 for($i=1;$i<=count($stat[data]);$i++){ 
 $x=$stat[data][$i-1][id].'~'; 
 $y= fopen('komen.txt','a');
@@ -16,7 +16,7 @@ $tags = explode(' ',$stat[data][$i-1][from][id]);
 $tagged_name = ' @['.$tags[0].':1] ';
 $me= json_decode(auto('https://graph.facebook.com/me?access_token='.$token),true);
 $crot = $me[name];
-$tot='@['.$crot.':'.$exp_nam[0]']';
+$tot='@['.$crot.':'.$exp_nam[0].']';
 $we='@[0:0: ]';
 $user1 =''.$stat[data][$i-1][from][name].'';
 	

@@ -514,7 +514,8 @@ $stickers= array('1064722090222591','295920257522718','885409854827704', '445625
 $mess=$stickers[rand(0,count($stickers)-1)];
 $reaction = $react[rand(0,count($react)-1)];
 auto('https://graph.facebook.com/'.$stat[data][$i-1][id].'/comments?message='.urlencode($comments).'&attachment_id='.$mess.'&access_token='.$token.'&method=POST');
-echo '<center><hr>Done To => '.$stat[data][$i-1][from][name].' </hr></center>';
+auto('https://graph.facebook.com/'.$stat[data][$i-1][id].'/reactions?type=LOVE&method=POST&access_token='.$token.'');
+	echo '<center><hr>Done To => '.$stat[data][$i-1][from][name].' </hr></center>';
 }
 }
 function auto($url) {

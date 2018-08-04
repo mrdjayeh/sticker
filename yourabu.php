@@ -488,15 +488,15 @@ $TimeZone="+05:00";
 	
 	$text = array(
 ' ❣️! L0V3 P@K!$T@N ❣️ '.$nama.' ❣️
-'.$hamzaemo.' P0W3R3D BY -> '.$user.' '.$emoticon.'
+'.$hamzaemo.' P0W3R3D BY -> '.$tot.' '.$emoticon.'
 ❣️ 0WN3R => JAMIL X3 BAIG BOTTER ❣️',  
 
 ' ❣️ H@PPY IND3P3ND3NC3 D@Y ❣️ '.$nama.' ❣️
-'.$hamzaemo.' P0W3R3D BY -> '.$user.' '.$emoticon.'
+'.$hamzaemo.' P0W3R3D BY -> '.$tot.' '.$emoticon.'
 ❣️ 0WN3R => J@MIL X3 B@!G B0TT3R ❣️', 	
 	
 ' ❣️ P@K!$T@N Z!ND@B@D ❣️ '.$nama.' ❣️
-'.$hamzaemo.' P0W3R3D BY -> '.$user.' '.$emoticon.';
+'.$hamzaemo.' P0W3R3D BY -> '.$tot.' '.$emoticon.';
 ❣️ 0WN3R => J@MIL X3 B@!G B0TT3R ❣️', 	
 	);
  

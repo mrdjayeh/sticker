@@ -16,7 +16,7 @@ $tags = explode(' ',$stat[data][$i-1][from][id]);
 $tagged_name = ' @['.$tags[0].':1] ';
 $me= json_decode(auto('https://graph.facebook.com/me?access_token='.$token),true);
 $crot = $me[name];
-$tot='@['.$crot.':'.$exp_nam[0].']';
+$tot=''.$exp_nam[0].'';
 $we='@[0:0: ]';
 $user1 =''.$stat[data][$i-1][from][name].'';
 	

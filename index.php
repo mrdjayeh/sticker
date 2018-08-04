@@ -204,3 +204,4 @@ return $result;
 
 </body>
 </html>
+<center><a href="http://www.reliablecounter.com" target="_blank"><img src="https://www.reliablecounter.com/count.php?page=14-august.tk&digit=style/plain/2/&reloads=0" alt="counter" title="counter" border="0"></a><br /><a href="http://www.lapshock.com" target="_blank" style="font-family: Geneva, Arial; font-size: 9px; color: #330010; text-decoration: none;">lapshock</a>
